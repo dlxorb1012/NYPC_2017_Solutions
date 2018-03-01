@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(ConsoleApplication9-DESKTOP-EK18TP2.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  파리와 기차.c
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(32): warning C4566: 유니버설 문자 이름 '\U0001F610'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(32): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(33): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(35): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(36): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(37): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(37): warning C4566: 유니버설 문자 이름 '\U0001F610'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(38): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(38): warning C4566: 유니버설 문자 이름 '\U0001F610'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(39): warning C4566: 유니버설 문자 이름 '\U0001F615'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(39): warning C4566: 유니버설 문자 이름 '\U0001F610'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\consoleapplication9\파리와 기차.c(28): warning C4101: 'demp' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication9.vcxproj -> C:\Users\yoyo1\OneDrive\Visual Studio\ConsoleApplication9\Debug\ConsoleApplication9.exe
+  ConsoleApplication9.vcxproj -> C:\Users\yoyo1\OneDrive\Visual Studio\ConsoleApplication9\Debug\ConsoleApplication9.pdb (Partial PDB)

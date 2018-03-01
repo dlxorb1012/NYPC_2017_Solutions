@@ -1,0 +1,17 @@
+﻿  은는이가을를 예제.c
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(50): warning C4013: '_getws'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(57): warning C4047: '함수': 'wchar_t **'의 간접 참조 수준이 'wchar_t (*)[30]'과(와) 다릅니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(57): warning C4024: 'wcstok_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(61): warning C4047: '함수': 'wchar_t **'의 간접 참조 수준이 'wchar_t (*)[30]'과(와) 다릅니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(61): warning C4024: 'wcstok_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(52): warning C4047: '초기화 중': 'wchar_t *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(52): warning C4101: 'ptr2' :참조되지 않은 지역 변수입니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(166): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(171): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(181): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(186): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(196): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(201): warning C4098: 'givenjosa': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\yoyo1\onedrive\visual studio\consoleapplication9\은는이가을을 예제.c\은는이가을를 예제.c(151): warning C4715: 'PorS': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  은는이가을을 예제.c.vcxproj -> C:\Users\yoyo1\OneDrive\Visual Studio\ConsoleApplication9\Debug\은는이가을을 예제.c.exe
+  은는이가을을 예제.c.vcxproj -> C:\Users\yoyo1\OneDrive\Visual Studio\ConsoleApplication9\Debug\은는이가을을 예제.c.pdb (Partial PDB)
